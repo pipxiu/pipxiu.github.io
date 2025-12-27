@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我好像一事无成</title>
+    <title>Welcome</title>
     <url>/undefined/undefined/undefined/undefined-world.md/</url>
-    <content><![CDATA[<p>大三了，我好像没有做成过一件什么事情。或许你会说“只要努力了就不会后悔”，考试我后悔，因为我不努力。</p>
-<p>大一好像拼尽了全力，但是由于疫情，考试推迟到开学，所以我没有好好复习。虽然勉强进了前十，但是没有困难生，所以申请不了国家励志奖学金。</p>
-<p>大二处于完全放弃的状态，所以即使我是困难生，我成绩掉到了17，连推免的资格都没有。更别提奖学金了。</p>
-<p>现在说这些好像都是在后悔过去，我这辈子好像一直在后悔。后悔没进直升班，后悔没把物理考好，后悔选择了这个专业，后悔没有选择教授，也后悔大一大二的一切。</p>
-<p>我好像把我的人生过得很糟，一切的轨迹都在向着反方向，我活成了最不想成为的人。</p>
-<p>我怎么会没有理想呢。“人没有理想，那和咸鱼有什么分别”我也曾是个意气风发的少年。。。</p>
+    <content><![CDATA[<p>欢迎来到皮皮休的博客，在这里，博主收集了大学生活中的各种学习资源，也有各种大学牲日常唠嗑、学习记录。作为一名大一新生，此博客将记录未来成长的点滴，寻找方向的路上任重而道远，不管外界如何，保持初心，一步一脚印……</p>
 ]]></content>
-      <categories>
-        <category>生活 -- 碎碎念</category>
-      </categories>
   </entry>
   <entry>
     <title>我“毕业”了</title>
@@ -38,6 +30,20 @@
       </categories>
   </entry>
   <entry>
+    <title>我好像一事无成</title>
+    <url>/undefined/undefined/undefined/undefined-world.md/</url>
+    <content><![CDATA[<p>大三了，我好像没有做成过一件什么事情。或许你会说“只要努力了就不会后悔”，考试我后悔，因为我不努力。</p>
+<p>大一好像拼尽了全力，但是由于疫情，考试推迟到开学，所以我没有好好复习。虽然勉强进了前十，但是没有困难生，所以申请不了国家励志奖学金。</p>
+<p>大二处于完全放弃的状态，所以即使我是困难生，我成绩掉到了17，连推免的资格都没有。更别提奖学金了。</p>
+<p>现在说这些好像都是在后悔过去，我这辈子好像一直在后悔。后悔没进直升班，后悔没把物理考好，后悔选择了这个专业，后悔没有选择教授，也后悔大一大二的一切。</p>
+<p>我好像把我的人生过得很糟，一切的轨迹都在向着反方向，我活成了最不想成为的人。</p>
+<p>我怎么会没有理想呢。“人没有理想，那和咸鱼有什么分别”我也曾是个意气风发的少年。。。</p>
+]]></content>
+      <categories>
+        <category>生活 -- 碎碎念</category>
+      </categories>
+  </entry>
+  <entry>
     <title>论文精读1</title>
     <url>/undefined/undefined/undefined/undefined-world.md/</url>
     <content><![CDATA[<h1 id="Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection"><a href="#Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection" class="headerlink" title="Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection"></a><center>Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection</h1><h3 id="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"><a href="#开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识" class="headerlink" title="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"></a><center>开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识</h3><h4 id="3-2-1-Background-Category-specific-Prompt"><a href="#3-2-1-Background-Category-specific-Prompt" class="headerlink" title="3.2.1 Background Category-specific Prompt"></a>3.2.1 Background Category-specific Prompt</h4><p>在这个部分中，我们对开放词汇目标检测中背景候选框的底层类别进行建模，并且学习相应的特定类别的提示。然而，由于缺乏这些类别的先验知识，就需要对背景候选框的最优数目进行估计。</p>
@@ -55,11 +61,5 @@
         <category>papers</category>
         <category>Intensive Reading</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Welcome</title>
-    <url>/undefined/undefined/undefined/undefined-world.md/</url>
-    <content><![CDATA[<p>欢迎来到皮皮休的博客，在这里，博主收集了大学生活中的各种学习资源，也有各种大学牲日常唠嗑、学习记录。作为一名大一新生，此博客将记录未来成长的点滴，寻找方向的路上任重而道远，不管外界如何，保持初心，一步一脚印……</p>
-]]></content>
   </entry>
 </search>
