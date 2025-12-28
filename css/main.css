@@ -2527,11 +2527,10 @@ body {
   opacity: 0.8;
 }
 .sidebar {
-  opacity: 0.9;
+  opacity: 1;
 }
 .header-inner {
   background: rgba(255,255,255,0.8);
-  opacity: 0.9;
 }
 .popup {
   opacity: 0.9;
