@@ -1494,6 +1494,7 @@ pre code {
 }
 .back-to-top span {
   margin-right: 8px;
+  border-radius: 0 0 20px 20px;
 }
 .back-to-top .fa {
   text-align: center;
@@ -2418,6 +2419,7 @@ header.header {
 }
 .back-to-top.back-to-top-on {
   margin-top: 16px;
+  border-radius: 0 0 20px 20px;
 }
 .main-inner .sub-menu,
 .main-inner .post-block,
