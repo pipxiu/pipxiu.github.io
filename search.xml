@@ -138,9 +138,9 @@
     <title>目标检测1</title>
     <url>/undefined/undefined/undefined/undefined-world.md/</url>
     <content><![CDATA[<h1 id="Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection"><a href="#Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection" class="headerlink" title="Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection"></a><center>Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection</h1><h3 id="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"><a href="#开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识" class="headerlink" title="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"></a><center>开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识</h3><h4 id="3-2-1-Background-Category-specific-Prompt"><a href="#3-2-1-Background-Category-specific-Prompt" class="headerlink" title="3.2.1 Background Category-specific Prompt"></a>3.2.1 Background Category-specific Prompt</h4><p>在这个部分中，我们对开放词汇目标检测中背景候选框的底层类别进行建模，并且学习相应的特定类别的提示。然而，由于缺乏这些类别的先验知识，就需要对背景候选框的最优数目进行估计。</p>
-<p>因此，我们首先使用一个与类无关的RPN模块在基类上训练，为每张图片得到背景候选框，采用的是VL-PLM中类似的技术。</p>
 <span id="more"></span>
 
+<p>因此，我们首先使用一个与类无关的RPN模块在基类上训练，为每张图片得到背景候选框，采用的是VL-PLM中类似的技术。</p>
 <h4 id="3-2-2-Background-Object-Discovery"><a href="#3-2-2-Background-Object-Discovery" class="headerlink" title="3.2.2 Background Object Discovery"></a>3.2.2 Background Object Discovery</h4><p>为了增强模型的训练，本文引入了一个在线的背景物体发现模块来有效地发现挖掘未知物体知识。这一模块旨在提取从与背景候选框中估计到的底层类别相关的隐性物体知识。为了简化，本文将Co划分成…</p>
 <p>在训练的初始阶段，给定估计的背景类别数量n，在视觉嵌入集合上执行K值聚类（k设置为n），这个视觉嵌入集合是由CLIP的图像编码器为背景候选框而生成的。随后得到聚类中心的嵌入，记作w。这些聚类中心被看作是估计的背景类别的嵌入中心，允许在每一个训练批次中从背景候选框在线生成伪标签。受 VL-PLM启发，每一个训练批次的背景候选框会基于RPN分数进行过滤，阈值为θ，并增加一个步骤来过滤和真实边界框重叠的候选框。随后，CLIP用于生成伪标签，避免了检测器偏向估计的背景类别。</p>
 <p>候选框x被分类为类别c的概率记作：</p>
