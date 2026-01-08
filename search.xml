@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的作品</title>
+    <url>/My-Works/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>2025-1个人介绍网页：<a href="https://pipxiu.github.io/self-introduction/">https://pipxiu.github.io/self-introduction/</a><br>（2025-6 based Vue3：<a href="https://pipxiu.github.io/wllvue/">https://pipxiu.github.io/wllvue/</a> ）<br>2024-12个人介绍视频：<a href="https://www.bilibili.com/video/BV1PdquB4Eus/?spm_id_from=333.1387.homepage.video_card.click&vd_source=429d0ed62a1a2a096ba739c2fa1ba145">https://www.bilibili.com/video/BV1PdquB4Eus/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=429d0ed62a1a2a096ba739c2fa1ba145</a><br>2024-6指环王混剪：<a href="https://www.bilibili.com/video/BV1WahVe7Eac/?spm_id_from=333.1387.homepage.video_card.click&vd_source=429d0ed62a1a2a096ba739c2fa1ba145">https://www.bilibili.com/video/BV1WahVe7Eac/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=429d0ed62a1a2a096ba739c2fa1ba145</a><br>2023-12个人视频剪辑《慢些长大》：<a href="https://www.bilibili.com/video/BV1Sc411m77M/?spm_id_from=333.1387.homepage.video_card.click&vd_source=429d0ed62a1a2a096ba739c2fa1ba145">https://www.bilibili.com/video/BV1Sc411m77M/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=429d0ed62a1a2a096ba739c2fa1ba145</a></p>
+]]></content>
+      <tags>
+        <tag>works</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>目标检测1</title>
     <url>//object-detection-1</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection"><a href="#Learning-Background-Prompts-to-Discover-Implicit-Knowledge-for-Open-Vocabulary-Object-Detection" class="headerlink" title="Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection"></a><center>Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection</h1><h3 id="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"><a href="#开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识" class="headerlink" title="开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识"></a><center>开放词汇目标检测任务中的学习背景提示来挖掘隐形背景知识</h3><h4 id="3-2-1-Background-Category-specific-Prompt"><a href="#3-2-1-Background-Category-specific-Prompt" class="headerlink" title="3.2.1 Background Category-specific Prompt"></a>3.2.1 Background Category-specific Prompt</h4><p>在这个部分中，我们对开放词汇目标检测中背景候选框的底层类别进行建模，并且学习相应的特定类别的提示。然而，由于缺乏这些类别的先验知识，就需要对背景候选框的最优数目进行估计。</p>
@@ -17,6 +26,7 @@
 <h3 id="4-Experiments"><a href="#4-Experiments" class="headerlink" title="4.Experiments"></a>4.Experiments</h3><h4 id="4-1-Experiments-Setups"><a href="#4-1-Experiments-Setups" class="headerlink" title="4.1.Experiments Setups"></a>4.1.Experiments Setups</h4><p>数据集。为了评估提出的LBP框架在解决开放词汇目标检测问题上的有效性，文章在已提出的两个目标检测数据集上进行实验：MS-COCO和LVIS。这些实验是在传统的开放词汇设置中进行的，分别被称为OV-COCO和OV-LVIS。正如之前的工作所述，在OV-COCO任务中，我们将48个类别划分为基类，17个类别划分为新类。评估检测性能的指标主要是IoU下的平均精度（阈值为0.5）具体来说，</p>
 ]]></content>
       <categories>
+        <category>Papers</category>
         <category>CV</category>
       </categories>
       <tags>
