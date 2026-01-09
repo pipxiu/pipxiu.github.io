@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>毕业论文</title>
-    <url>/my-thesis/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="第二版改稿"><a href="#第二版改稿" class="headerlink" title="第二版改稿"></a>第二版改稿</h1><h2 id="文献调查"><a href="#文献调查" class="headerlink" title="文献调查"></a>文献调查</h2><h3 id="传统英语写作与AI时代英语写作"><a href="#传统英语写作与AI时代英语写作" class="headerlink" title="传统英语写作与AI时代英语写作"></a>传统英语写作与AI时代英语写作</h3>]]></content>
-      <categories>
-        <category>Papers</category>
-        <category>Thesis</category>
-      </categories>
-      <tags>
-        <tag>study</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的作品</title>
     <url>/My-Works/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="①2025-1个人介绍网页："><a href="#①2025-1个人介绍网页：" class="headerlink" title="①2025-1个人介绍网页："></a>①2025-1个人介绍网页：</h4><p><a href="https://pipxiu.github.io/self-introduction/">https://pipxiu.github.io/self-introduction/</a></p>
@@ -23,11 +11,17 @@
 <h4 id="⑥3DMax："><a href="#⑥3DMax：" class="headerlink" title="⑥3DMax："></a>⑥3DMax：</h4><p>见①</p>
 ]]></content>
       <categories>
-        <category>[object Object]</category>
+        <category>works</category>
       </categories>
       <tags>
         <tag>works</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Welcome</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到皮皮休的博客，在这里，博主收集了大学生活中的各种学习资源，也有各种大学牲日常唠嗑、学习记录。作为一名大一新生，此博客将记录未来成长的点滴，寻找方向的路上任重而道远，不管外界如何，保持初心，一步一脚印……</p>
+]]></content>
   </entry>
   <entry>
     <title>目标检测1</title>
@@ -54,9 +48,15 @@
       </tags>
   </entry>
   <entry>
-    <title>Welcome</title>
-    <url>/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>欢迎来到皮皮休的博客，在这里，博主收集了大学生活中的各种学习资源，也有各种大学牲日常唠嗑、学习记录。作为一名大一新生，此博客将记录未来成长的点滴，寻找方向的路上任重而道远，不管外界如何，保持初心，一步一脚印……</p>
-]]></content>
+    <title>毕业论文</title>
+    <url>/my-thesis/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="第二版改稿"><a href="#第二版改稿" class="headerlink" title="第二版改稿"></a>第二版改稿</h1><h2 id="文献调查"><a href="#文献调查" class="headerlink" title="文献调查"></a>文献调查</h2><h3 id="传统英语写作与AI时代英语写作"><a href="#传统英语写作与AI时代英语写作" class="headerlink" title="传统英语写作与AI时代英语写作"></a>传统英语写作与AI时代英语写作</h3>]]></content>
+      <categories>
+        <category>Papers</category>
+        <category>Thesis</category>
+      </categories>
+      <tags>
+        <tag>study</tag>
+      </tags>
   </entry>
 </search>
